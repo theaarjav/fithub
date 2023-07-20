@@ -4,3 +4,6 @@
 [submodule "fithub"]
 	path = fithub
 	url = https://github.com/theaarjav/fithub
+[submodule "fithub-frontend"]
+	path = fithub-frontend
+	url = https://github.com/theaarjav/fithub-frontend
