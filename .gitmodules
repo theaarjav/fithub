@@ -1,3 +1,6 @@
 [submodule "maestrohub"]
 	path = maestrohub
 	url = https://github.com/theaarjav/maestrohub
+[submodule "fithub"]
+	path = fithub
+	url = https://github.com/theaarjav/fithub
