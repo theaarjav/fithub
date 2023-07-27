@@ -1,4 +1,4 @@
-# Dev-Room
+# FitHub
 
 ## Website link [fit.app](https://fitmaestroshub.netlify.app/)
 
