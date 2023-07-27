@@ -12,7 +12,7 @@
     3. User can also view the profile of other users and follow them registered
     in this platform.
     4.They can also post text, post text with image, like and comment on 
-    the post and can also view the post posted by other developers.
+    the post and can also view the post posted by other users.
     5.User can also delete their own post and comments.
     6. There is also a feature of nested comments like reddit and twitter where user can reply to the replied comments.
 
