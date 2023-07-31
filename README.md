@@ -30,4 +30,4 @@
 
 ## Screenshots
 ### Home
-![Home]("https://postimg.cc/ygkvkzFL")
+![Home](https://i.postimg.cc/W37KYNtc/Screenshot-2023-07-28-040413.png)
